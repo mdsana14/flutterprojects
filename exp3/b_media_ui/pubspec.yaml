@@ -1,0 +1,19 @@
+name: b_media_ui
+description: A responsive Flutter UI using breakpoints
+publish_to: 'none' # This prevents accidental publishing
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
