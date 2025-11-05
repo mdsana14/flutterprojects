@@ -5,6 +5,8 @@ void main() {
 }
 
 class MyLayoutsApp extends StatelessWidget {
+  const MyLayoutsApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
