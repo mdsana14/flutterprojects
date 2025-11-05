@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2025-11-05 110038" src="https://github.com/user-attachments/assets/70349e9d-8331-4bf1-b1c1-53c1c16a1f17" /># Experiment 10
+# Experiment 10
 
 ## 10a: Write unit tests for UI components
 
@@ -31,3 +31,4 @@ Debugging tools help track errors and performance. This experiment demonstrates 
 <img width="1912" height="1072" alt="Screenshot 2025-11-05 112129" src="https://github.com/user-attachments/assets/5f17446d-1872-443d-ba93-91962856ba45" />
 
 <img width="1919" height="1079" alt="Screenshot 2025-11-05 112141" src="https://github.com/user-attachments/assets/fce831d2-7b02-40e8-b961-7baefed1eafd" />
+
