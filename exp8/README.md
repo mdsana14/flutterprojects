@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2025-11-05 011152" src="https://github.com/user-attachments/assets/7e31fb15-2a03-4657-b388-a7a0ea370959" /># Experiment 8
+# Experiment 8
 
 ## 8a: Add animations to UI elements
 
@@ -31,4 +31,5 @@ Flutter supports multiple animation types. This experiment demonstrates FadeTran
 <img width="1918" height="1079" alt="Screenshot 2025-11-05 011337" src="https://github.com/user-attachments/assets/b81b6752-1a5d-4d86-9208-683a08c89f78" />
 
 <img width="1915" height="1073" alt="Screenshot 2025-11-05 011352" src="https://github.com/user-attachments/assets/164a4968-56ce-4a10-a8d0-eb420e5b6060" />
+
 
